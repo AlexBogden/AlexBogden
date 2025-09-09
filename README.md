@@ -1,4 +1,4 @@
-# Hi, I'm Alex Bogden 💻
+# Hi, I'm Alex Bogden 
 
 I’m a career transitioner into software development, building on a background in marketing, communications, and data annotation.  
 After graduating from Tech Elevator’s full-stack Java bootcamp, I’ve been focused on backend programming, REST APIs, and relational databases, while continuing to grow in full-stack development.  
