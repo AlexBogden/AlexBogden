@@ -1,9 +1,10 @@
-# Hi, I'm Alex Bogden 
+# Hi, I'm Alex Bogden
 
-I’m a career transitioner into software development, building on a background in marketing, communications, and data annotation.  
-After graduating from Tech Elevator’s full-stack Java bootcamp, I’ve been focused on backend programming, REST APIs, and relational databases, while continuing to grow in full-stack development.  
+I'm a data analyst with a foundation in full-stack development from Tech Elevator's Java bootcamp and hands-on experience in data quality and AI evaluation work.
 
-Lately, I’ve been working on personal projects like **TrendTap** (a YouTube-powered content insights app), practicing advanced Java through daily katas, and exploring ways to apply coding skills in data annotation and AI evaluation work.
+I'm currently running an independent analysis project on Canadian land border crossing trends using PostgreSQL and DBeaver, and sharing findings progressively on LinkedIn.
+
+I combine technical fluency with strong communication skills, comfortable working with data and equally comfortable explaining what it means to a non-technical audience.
 
 ---
 
