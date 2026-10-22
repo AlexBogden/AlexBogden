@@ -1,18 +1,19 @@
 # Hi, I'm Alex Bogden
-I'm a data analyst with a foundation in full-stack development from Tech Elevator's Java bootcamp, and hands-on experience in data quality and AI evaluation work.
+I'm a data analyst who works in SQL and PostgreSQL, with a foundation in full-stack development from Tech Elevator's Java bootcamp and hands-on experience in data quality and AI evaluation work.
 
-I'm currently running an independent data analysis project examining Canadian land border crossing trends, combining SQL, Python, and survey data to explore the story behind the numbers, and sharing findings progressively on LinkedIn.
+My recent independent projects include a SQL and Python analysis of Canadian land border crossing trends, shared as a series on LinkedIn, and an ongoing data quality validation of a synthetic live-events ticketing dataset.
 
-I combine technical fluency with strong communication skills: comfortable writing complex SQL and building data pipelines, and equally comfortable explaining what the data means to a non-technical audience.
+I'm comfortable writing complex SQL and building data pipelines, and equally comfortable explaining what the data means to a non-technical audience, whether that's a written summary of findings or a public LinkedIn series.
 
 ---
 
 ### Featured Projects
 
-- **Canadian Border Crossings Analysis** — SQL and Python analysis of Canadian land border crossing trends from 2024 to 2026, combining Bureau of Transportation Statistics data with individual-level survey data from the Border Policy Research Institute at Western Washington University. Covers geographic breakdowns, event correlation, and data quality validation. Published as an ongoing LinkedIn series.
-- **Family Reading Tracker** — Full-stack capstone app (Java, Spring Boot, React, PostgreSQL). Tracks reading activity with parent/child roles and a prize system.
-- **fastai-course** — Notebooks and experiments from the *Practical Deep Learning for Coders* course.
-- **tedify-ai** — Early AI experiment transforming YouTube videos into TED-style summaries.
+- **Canadian Border Crossings Analysis**: SQL and Python analysis of Canadian land border crossing trends from 2024 to 2026, combining Bureau of Transportation Statistics data with individual-level survey data from the Border Policy Research Institute at Western Washington University. Covers geographic breakdowns, event correlation, and data quality validation. Published as a LinkedIn series.
+- **Ticketing Platform Risk & Purchase-Pattern Analysis**: SQL and PostgreSQL data quality validation of a synthetic live-events ticketing dataset across six related tables. Findings are written up in the repo README, including where missing values weaken the accuracy checks. Accuracy and Completeness are complete, Consistency and Validity are next, and a Power BI dashboard is planned. In progress.
+- **Family Reading Tracker**: Full-stack capstone app (Java, Spring Boot, React, PostgreSQL). Tracks reading activity with parent/child roles and a prize system.
+- **fastai-course**: Notebooks and experiments from the *Practical Deep Learning for Coders* course.
+- **tedify-ai**: Early AI experiment transforming YouTube videos into TED-style summaries.
 
 ---
 
@@ -33,4 +34,3 @@ I combine technical fluency with strong communication skills: comfortable writin
 ### Connect
 - [LinkedIn](https://www.linkedin.com/in/alex-bogden/)
 - [Email](mailto:alexjbogden@gmail.com)
-
